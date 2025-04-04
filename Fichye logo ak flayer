@@ -1,0 +1,18 @@
+<!DOCTYPE html><html lang="ht">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon-Entreprise</title>
+</head>
+<body>
+    <h1>Byenvini nan Mon-Entreprise</h1><h2>Travay Mwen</h2>
+<p>Men kèk logo ak flyer mwen te kreye:</p>
+
+<img src="logo.png" alt="Logo mwen" width="300">
+<img src="flyer.jpg" alt="Flyer mwen" width="500">
+
+<p>Si w enterese, kontakte m pou yon design pèsonalize!</p>
+
+</body>
+</html>
+
